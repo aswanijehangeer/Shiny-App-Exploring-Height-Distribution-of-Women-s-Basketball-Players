@@ -2,7 +2,7 @@
 
 This Shiny app allows you to explore and analyze the height distribution among women's basketball players in the NCAA.
 
-###[Check Live App here](https://jehangeer.shinyapps.io/The_Height_of_Womens_NCAA_Basketball_Players/)
+[Check Live App here](https://jehangeer.shinyapps.io/The_Height_of_Womens_NCAA_Basketball_Players/)
 
 ![App Preview](images/screenshot_1.png)
 ![App Preview](images/screenshot_2.png)
